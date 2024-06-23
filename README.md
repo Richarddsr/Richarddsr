@@ -8,7 +8,7 @@
 - ⚡ Meu jogo favorito é LoL, o qual está como minha foto de perfil
 - <h2>Contatos:</h2>
 <div>
-<a href="https//instagram.com/richard_dsr-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https//instagram.com/richard_dsr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
 

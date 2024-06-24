@@ -9,6 +9,7 @@
 - <h2>Contatos:</h2>
 <div>
 <a href="https//instagram.com/richard_dsr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
 
 </div>
 

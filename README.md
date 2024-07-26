@@ -5,7 +5,7 @@
 - 💞️ Estou inscrito no Alura, e é por la que estou aprendendo
 - 📫 Moro em Porto Alegre, capital de RS
 - 😄 Me chamo Richard Da Silva Rodrigues
-- ⚡ Meu jogo favorito é LoL, o qual está como minha foto de perfil
+- ⚡ Meu jogo favorito é LoL, o qual está como figura no meu portfolio
 - <h2>Contatos:</h2>
 <div>
 <a href="https://www.instagram.com/richard_dsr" alt="Instagram" target="_blank">

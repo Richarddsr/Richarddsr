@@ -2,7 +2,7 @@
 - 👀 Atualmente estou interessado em aprender e desenvolver novas habilidades
 
 - 🌱 Estou aprendendo HTML, CSS, Javascript e JAVA 
-- 💞️ Estou inscrito no Alura, e é por la que estou aprendendo
+- 💞️ Estou inscrito no Geracão Caldeira, em parceria com a Alura, e é por la que estou aprendendo
 - 📫 Moro em Porto Alegre, capital de RS
 - 😄 Me chamo Richard Da Silva Rodrigues
 - ⚡ Meu jogo favorito é LoL, o qual está como figura no meu portfolio

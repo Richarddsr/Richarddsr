@@ -6,6 +6,7 @@
 - 📫 Moro em Porto Alegre, capital de RS
 - 😄 Me chamo Richard Da Silva Rodrigues
 - ⚡ Meu jogo favorito é LoL, o qual está como figura no meu portfolio
+- <h2>Recomendo visualizar meu portfolio para melhores informações!</h2>
 - <h2>Contatos:</h2>
 <div>
 <a href="https://www.instagram.com/richard_dsr" alt="Instagram" target="_blank">

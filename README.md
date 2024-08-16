@@ -5,7 +5,7 @@
 - 💞️ Estou inscrito no Geracão Caldeira, em parceria com a Alura, e é por la que estou aprendendo
 - 📫 Moro em Porto Alegre, capital de RS
 - 😄 Me chamo Richard Da Silva Rodrigues
-- ⚡ Meu jogo favorito é LoL, o qual uso em tempo livre
+- ⚡ Meu jogo favorito é LoL, o qual esta como figura em meu portfolio
 - <h2>Recomendo visualizar meu portfolio para melhores informações!</h2>
 - <h2>Contatos:</h2>
 <div>

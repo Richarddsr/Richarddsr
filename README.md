@@ -1,8 +1,8 @@
 <h1>- 👋 Olá! sou o @Richarddsr</h1>
 - 👀 Atualmente estou interessado em aprender e desenvolver novas habilidades
 
-- 🌱 Estou aprendendo HTML, CSS, Javascript e JAVA 
-- 💞️ Estou inscrito no Geracão Caldeira, em parceria com a Alura, e é por la que estou aprendendo
+- 🌱 Estou aprendendo HTML, CSS, Javascript, JAVA e Phyton 
+- 💞️ Fiz cursos de progamação pela Alura e atualmente estou cursando Python pelo Senac
 - 📫 Moro em Porto Alegre, capital de RS
 - 😄 Me chamo Richard Da Silva Rodrigues
 - ⚡ Meu jogo favorito é LoL, o qual esta como figura em meu portfolio

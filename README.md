@@ -1,7 +1,7 @@
 <h1>- 👋 Olá! sou o @Richarddsr</h1>
 - 👀 Atualmente estou interessado em aprender e desenvolver novas habilidades
 
-- 🌱 Estou aprendendo HTML, CSS, Javascript, JAVA e Phyton 
+- 🌱 Sigo estudandando Notion, Python, JAVA, Javascript, HTML e CSS
 - 💞️ Fiz cursos de progamação pela Alura e atualmente estou cursando Python pelo Senac
 - 📫 Moro em Porto Alegre, capital de RS
 - 😄 Me chamo Richard Da Silva Rodrigues
@@ -12,6 +12,19 @@
 <a href="https://www.instagram.com/richard_dsr" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/SEU_USUARIO">
 </a>
+- <h2>Estou aprendendo:</h2>
+<div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="70" height="70">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="70" height="70">
+ <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="70" height="70">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="70" height="70">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="70" height="70">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="70" height="70">
+
+
+
+  
+</div>
 
 
 </div>

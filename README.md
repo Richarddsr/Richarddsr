@@ -18,7 +18,7 @@
 <div>
   <h2>Informações profissionais</h2>
   <a href="https://abrupt-balance-3c6.notion.site/Certificados-Richard-1349056d0e6680e3a74bed8dfbc72682">
-   <img src="https://img.shields.io/badge/-Notion-FFD700?style=for-the-badge&labelColor=FFD700&logo=notion&logoColor=black&link=https://www.Notion.com/SEU_USUARIO">
+   <img src="https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&labelColor=FFFFFF&logo=notion&logoColor=black&link=https://www.Notion.com/SEU_USUARIO">
 </a>
 </div>
 - <h2>Estou aprendendo:</h2>

@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/SEU_USUARIO">
 </a>
   <a href="https://www.linkedin.com/in/richard-da-silva-rodrigues-a2a867256/">
-   <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/SEU_USUARIO">
+   <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.Linkedin.com/SEU_USUARIO">
   </a>
 <div>
   <h2>Informações profissionais:</h2>

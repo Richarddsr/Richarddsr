@@ -1,5 +1,5 @@
 <h1>- 👋 Olá! sou o @Richarddsr</h1>
-- 👀 Atualmente estou interessado em aprender e desenvolver novas habilidade
+- 👀 Atualmente estou interessado em aprender e desenvolver novas habilidades
 
 - 🌱 Sigo estudandando Notion, Python, JAVA, Javascript, HTML e CSS
 - 💞️ Fiz cursos de progamação pela Alura e atualmente estou cursando Python pelo Senac

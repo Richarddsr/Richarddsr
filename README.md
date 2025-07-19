@@ -2,8 +2,8 @@
 - 👀 Atualmente estou interessado em aprender e desenvolver novas habilidades
 
 - 🌱 Sigo estudandando Notion, Python, JAVA, Javascript, HTML e CSS
-- 💞️ Fiz cursos de progamação pela Alura e atualmente estou cursando Python pelo Senac
-- 📫 Moro em Porto Alegre, capital de RS
+- 💞️ Fiz cursos de progamação pela Alura e no SenacRS, e atualmente estou cursando Ciência da Informação na UFSC.
+- 📫 Moro em Florianópolis, capital de SC
 - 😄 Me chamo Richard Da Silva Rodrigues
 - ⚡ Meu jogo favorito é LoL, o qual esta como figura em meu portfolio
 - <h2>Recomendo visualizar meu portfolio para melhores informações!</h2>
